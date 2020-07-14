@@ -1,0 +1,65 @@
+{
+    "Soups":[
+        ["Chicken Sweet Corn Soup (鸡米汤)", 5],
+        ["Crab Meat Sweet Corn Soup (蟹米汤)", 5],
+        ["Chicken Mushroom Soup (蘑菇鸡汤)", 4],
+        ["Chicken Noodles Soup (鸡面汤)", 3.5],
+        ["Hot Sour Soup (酸辣汤)", 3],
+        ["Wun Tun Soup (云吞汤)", 3]
+    ],
+
+    "Starters":[
+        ["Barbecued Spare Ribs (Dry) (干骨)", 10],
+        ["Spare Ribs BBQ Sauce (B骨)", 10.5],
+        ["Spring Rolls (4) Sweet Chilli (甜辣卷)", 6.5],
+        ["Vegetable Spring Rolls (12) (斋卷)", 7.5],
+        ["Sesame Prawn on Toast (6) (虾多士)", 7],
+        ["Deep-Fried Seaweed (海草)", 6.5],
+        ["Crispy Wan Ton Sweet Sour (12) (炸云吞)", 7.5],
+        ["Salt Chilli Chips (盐辣条)", 5.5],
+        ["Crispy Shredded Chicken Sweet Sour (咕老鸡丝)", 8.5],
+        ["Chicken Skewered in Satay (沙嗲鸡串)", 9],
+        ["Crispy Aromatic Duck (香鸭)", 14]
+    ],
+
+    "Fried Rice Dishes": [
+        ["Golden Mountain Fried Rice (招牌炒饭)", 11],
+        ["Yung Chow Fried Rice (杨饭)", 10],
+        ["King Prawn Fried Rice (大虾炒饭)", 11],
+        ["Shrimp Fried Rice (虾仔炒饭)", 9],
+        ["Chicken Fried Rice (鸡炒饭)", 9],
+        ["Beef Fried Rice (牛炒饭)", 9.5],
+        ["Roast Pork Fried Rice (叉烧炒饭)", 9.5],
+        ["Singapore Fried Rice (星饭)", 10],
+        ["Pineapple Fried Rice Cashew Nuts (菠腰饭)", 8],
+        ["Vegetable Fried Rice Cashew Nuts (菜腰饭)", 8]
+],
+
+    "Chow Mein Dishes": [
+        ["Golden Mountain Chow Mein (招牌炒面)", 11],
+        ["King Prawn Chow Mein (大虾炒面)", 11],
+        ["Shrimp Chow Mein (虾仔面)", 10],
+        ["Chicken Chow Mein (鸡炒面)", 9.5],
+        ["Beef Chow Mein (牛炒面)", 10],
+        ["Roast Pork Chow Mein (叉烧炒面)", 10],
+        ["Roast Duck Chow Mein (鸭炒面)", 11],
+        ["Singapore Chow Mein (星面)", 10.5],
+        ["Vegetable Chow Mein (杂菜炒面)", 9]
+    ]
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
